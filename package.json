@@ -1,0 +1,31 @@
+{
+  "name": "create-revup",
+  "version": "1.0.6",
+  "type": "module",
+  "bin": {
+    "create-revup": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "cli",
+    "structured"
+  ],
+  "author": "Bob",
+  "preferGlobal": true,
+  "license": "MIT",
+  "description": "A CLI to scaffold a React Vite project with structured directories",
+  "files": [
+    "bin/",
+    "lib/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
