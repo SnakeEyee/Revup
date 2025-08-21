@@ -41,7 +41,7 @@ npm run update-aliases
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/SnakeEyee/Revup/blob/main/LICENSE) License. See the LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE) License. See the LICENSE file for details.
 
 ---
 
@@ -50,3 +50,9 @@ This project is licensed under the [MIT License](https://github.com/SnakeEyee/Re
 Created by SnakeEye 👨‍💻
 
 ---
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SnakeEyee/Revup/blob/main/LICENSE)
+
+[![Github Repository](https://img.shields.io/badge/Repo-Revup-yellow)](https://github.com/SnakeEyee/Revup)
