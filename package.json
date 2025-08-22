@@ -8,13 +8,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnakeEyee/Revup.git"
+  },
   "keywords": [
     "react",
     "vite",
     "cli",
-    "structured"
+    "structured",
+    "scaffold",
+    "create react vite",
+    "create"
   ],
-  "author": "Bob",
+  "author": "SnakeEye",
   "preferGlobal": true,
   "license": "MIT",
   "description": "A CLI to scaffold a React Vite project with structured directories",

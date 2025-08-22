@@ -56,3 +56,9 @@ Created by SnakeEye 👨‍💻
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/SnakeEyee/Revup/blob/main/LICENSE)
 
 [![Github Repository](https://img.shields.io/badge/Repo-Revup-yellow)](https://github.com/SnakeEyee/Revup)
+
+## Support
+
+If you like this project, consider buying me a coffee ☕ or supporting via PayPal:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/snake19eye73)
